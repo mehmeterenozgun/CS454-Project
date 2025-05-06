@@ -11,3 +11,5 @@ pandas
 prefetch_generator
 requests
 category_encoders
+pytorch-tabnet
+pandas
